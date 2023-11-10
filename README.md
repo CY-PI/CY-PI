@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI & Animation
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate in any project where I can further expose myself to Programming and/or Animation
-- 📫 How to reach me: cy.pi.anima@gmail.com
+- 📫 How to reach me: 
 
 <!---
 CY-PI/CY-PI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

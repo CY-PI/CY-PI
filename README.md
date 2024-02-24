@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CY-PI
-- 👀 I’m interested in AI & Animation
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate in any project where I can further expose myself to Programming and/or Animation
+- 👀 I’m interested in Computer Graphics & AI
+- 🌱 Programming languages: Good: C and Javascript. Working on: Python and Java.
+- 💞️ I’m looking to collaborate in any project where I can further expose myself to Computer Graphics and Artificial Intelligence.
 - 📫 How to reach me: 
 
 <!---

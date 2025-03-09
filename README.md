@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CY-PI
-- 👀 I’m interested in Computer Graphics & AI
-- 🌱 Programming languages: Good: C and Javascript. Working on: Python and Java.
-- 💞️ I’m looking to collaborate in any project where I can further expose myself to Computer Graphics and Artificial Intelligence.
+- 👀 I’m interested in AI and data management.
+- 🌱 Programming languages: C, Javascript, Python, Java and SQL.
+- 💞️ I’m looking to collaborate in any project where I can further expose myself to Artificial Intelligence.
 - 📫 How to reach me: 
 
 <!---
